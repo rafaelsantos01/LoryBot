@@ -1,0 +1,12 @@
+/.vscode
+/src
+/node_modules
+/docs
+/assets
+/archive
+/.env.example
+/.eslintignore
+/.eslintrc.json
+/README.md
+/tsconfig.json
+/.gitignore
